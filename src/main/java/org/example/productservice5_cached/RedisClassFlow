@@ -1,0 +1,38 @@
+1)
+before starting implementation
+show fake store api response with products/1 - first run
+show fake store api response with products/1 - second run
+show fake store api response with products/1 - third run
+
+2)
+Install Redis on Mac using
+https://redis.io/docs/install/install-redis/install-redis-on-mac-os/
+
+or
+
+https://phoenixnap.com/kb/install-redis-on-mac
+
+3)
+Add Dependency
+Add Application Properties
+Show Elastic Cache on AWS and explain for application settings
+
+4)
+Redis Config
+FakeStoreService Integration
+Add Serializable on FakeStoreProductDto
+
+5)
+run redis-server command on terminal to start redis
+Run Application
+
+6)
+show fake store api response with products/5 - first run
+show fake store api response with products/5 - second run (cached)
+show fake store api response with products/5 - third run (cached)
+
+7)
+Now, when you will be mentioning in Resume, you guys can mention like this
+
+"Used Redis Cache to optimize Fetch Products by approx 90%"
+Redis is nothing but a database, which is storing data in RAM
